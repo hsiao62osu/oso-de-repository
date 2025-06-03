@@ -2,11 +2,6 @@
 
 Working with HTML and CSS (in Carmen) is an important (although not required) competency for OTDI instructional designers and student employees. This self-paced training targets recognizing, editing, and troubleshooting HTML and CSS.
 
-## Quick links to modules <!-- {docsify-ignore} -->
-
-- [Module 1](html-css/html-css-module-one.md)
-
-
 ## How does this training work? <!-- {docsify-ignore} -->
 
 - **Organization**: The training is divided into modules with an overview, learning content, resources, as well as practice and reflection activities.

@@ -24,7 +24,7 @@ Most HTML elements have an opening tag and a corresponding closing tag:
 - The opening tag starts with `<` (less than sign), followed by the element’s name, and ends with `>` (greater than sign)
 - The closing tag starts with `</` (slash and less than sign), followed by the element’s name, and ends with `>` as well
 
-A HTML element’s content is wrapped in between its opening and closing tags; for example, here is a paragraph (the closing tag is italicized for clarity):
+A HTML element’s content is wrapped in between its opening and closing tags; for example, here is a paragraph:
 
 ```html
 <p>I am a paragraph.</p>
@@ -46,13 +46,13 @@ As another example, here is an image:
 
 ### Nested Elements
 
-An HTML element can be contained inside another element (i.e. _nesting_, or “parent-child” relationship); for example, here is a paragraph containing bold text (the closing tags are italicized for clarity):
+An HTML element can be contained inside another element (i.e. _nesting_, or “parent-child” relationship); for example, here is a paragraph containing bold text:
 
 ```html
 <p><strong>This is a bolder sentence.</strong></p>
 ```
 
-As another example, here is an arbitrary container with a paragraph inside (the closing tags are italicized for clarity):
+As another example, here is an arbitrary container with a paragraph inside:
 
 ```html
 <div>
