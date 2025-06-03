@@ -10,6 +10,7 @@ In this modules, our content and activities will help you to be able to do the f
 - Explain what a WYSIWYG is
 - Describe how web content is edited in Carmen
 
+
 ## Mini-Module 1.1: The Building Blocks of Web
 
 ### What is HTML?
@@ -26,6 +27,7 @@ The “C” in CSS stands for “cascading”, meaning that a style set on an HT
 
 It’s ok if much of this don’t make sense yet – it will become clearer as you learn about more pieces of the puzzle. This course is not meant to be comprehensive; rather, it will give you just enough to be able to decipher and tinker with HTML and CSS code that you will commonly encounter when working in Carmen.
 
+
 ## Mini-Module 1.2: WYSIWYG and the Carmen RCE
 
 WYSIWYG stands for “What You See is What You Get”. You can use WYSIWYG editors to create and modify web content visually, just like how you would create and edit a document in a word processor like Microsoft Word. Underneath, the content that you create is still expressed in HTML.
@@ -39,11 +41,12 @@ The RCE has two modes, which you can toggle using the `</>` icon at the bottom r
     - The _Pretty HTML Editor_, which can be turned on using the link at the bottom left of the html editor, automatically formats the code with colors and indentations. This mode can be helpful for folks who are not as familiar with HTML, or for when you work with longer or more complex page
     - The _Raw HTML Editor_, on the other hand, may be preferred by folks with more experience; there is currently a limitation with the Pretty HTML Editor in which the browser’s “find” functionality may not work with code that is not in view
 
-![Canvas RCE - WYSIWYG](Canvas-RCE-WYSIWYG-1024x545.png)
+![Canvas RCE - WYSIWYG](images/html-css/Canvas-RCE-WYSIWYG-1024x545.png)
 
-![Canvas RCE - HTML (Pretty)](Canvas-RCE-Pretty-HTML-1024x553.png)
+![Canvas RCE - HTML (Pretty)](images/html-css/Canvas-RCE-Pretty-HTML-1024x553.png)
 
-![Canvas RCE - HTML (Raw)](Canvas-RCE-Raw-HTML-1024x561.png)
+![Canvas RCE - HTML (Raw)](images/html-css/Canvas-RCE-Raw-HTML-1024x561.png)
+
 
 ### Resources
 
