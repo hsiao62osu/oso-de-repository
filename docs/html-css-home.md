@@ -42,4 +42,4 @@ Here is _roughly_ how each module is organized:
 
 ## Quick links to modules
 
-- [Module 1](html-css-module-1-overview)
+- [Module 1](html-css-module-one.md)
