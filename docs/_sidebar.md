@@ -1,3 +1,4 @@
 - [Home](home.md)
 - [HTML and CSS Training](html-css-home)
+	- [Module 1: Just the Basics](html-css-module-one)
 - [Style Guide for Authors](authors-style-guide.md)

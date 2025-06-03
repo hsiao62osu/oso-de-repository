@@ -1,4 +1,4 @@
-# Module 1: Overview
+# Module 1: Just the Basics
 
 In this module, you will first learn about some of the building blocks of web, namely HTML and CSS. You will also learn about what a What-You-See-Is-What-You-Get (WYSIWYG) editor is, as well as Carmen’s version of it, the Rich Content Editor (RCE). Should you need them, there are optional resources in this module to help you familiarize yourself with the RCE.
 
