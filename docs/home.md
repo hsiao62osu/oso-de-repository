@@ -1,4 +1,4 @@
 # OSO Distance Education Resource Repository
 
 ## Website Pages
-- [[authors-style-guide]]
+- [Style Guide for Authors](authors-style-guide)
