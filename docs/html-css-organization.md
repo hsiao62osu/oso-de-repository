@@ -18,3 +18,14 @@ Here are the modules in this training:
     - In this module, you will learn about the CSS Box Model, which will help you style containers in your web content so they look the way you want. Then, you will learn about what “cascading” means in “Cascading Stylesheet”, which will also be helpful with styling containers.
 - **Stepping Up**:
     - This is an _optional_ module for you to learn about intermediate and advanced techniques, including tabs, accordions, and grids.
+
+Here is _roughly_ how each module is organized:
+
+1. **Module overview**
+2. **Pre-quiz**: You can test out of a module if you’re already familiar with the targeted topics
+3. **Mini-modules**
+4. **“In Application”**:  These include information that will help you with the various practice activities that you will be asked to complete in this training
+5. **Practice activities:** These are step-by-step activities that help you apply the skills that the module targets by actually working in the Carmen rich content editor
+6. **Post-quiz**: These are assessments for confirming that you have gained a sufficient grasp of the knowledge that the module targets
+7. **Optional resources**
+8. **Optional module Q&A discussion**: Use these discussions to ask your questions about the module and/or to answer those asked by your peers
