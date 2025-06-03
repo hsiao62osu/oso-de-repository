@@ -41,11 +41,11 @@ The RCE has two modes, which you can toggle using the `</>` icon at the bottom r
     - The _Pretty HTML Editor_, which can be turned on using the link at the bottom left of the html editor, automatically formats the code with colors and indentations. This mode can be helpful for folks who are not as familiar with HTML, or for when you work with longer or more complex page
     - The _Raw HTML Editor_, on the other hand, may be preferred by folks with more experience; there is currently a limitation with the Pretty HTML Editor in which the browser’s “find” functionality may not work with code that is not in view
 
-![Canvas RCE - WYSIWYG](images/html-css/Canvas-RCE-WYSIWYG-1024x545.png)
+![Canvas RCE - WYSIWYG](../images/html-css/Canvas-RCE-WYSIWYG-1024x545.png)
 
-![Canvas RCE - HTML (Pretty)](images/html-css/Canvas-RCE-Pretty-HTML-1024x553.png)
+![Canvas RCE - HTML (Pretty)](../images/html-css/Canvas-RCE-Pretty-HTML-1024x553.png)
 
-![Canvas RCE - HTML (Raw)](images/html-css/Canvas-RCE-Raw-HTML-1024x561.png)
+![Canvas RCE - HTML (Raw)](../images/html-css/Canvas-RCE-Raw-HTML-1024x561.png)
 
 
 ### Resources
