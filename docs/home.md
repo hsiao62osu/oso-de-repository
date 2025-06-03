@@ -2,7 +2,7 @@
 
 ## Collections
 
-- [HTML and CSS Training](docs/html-css-training/home)
+- [HTML and CSS Training](html-css-home.md)
 
 ## Admin
 
