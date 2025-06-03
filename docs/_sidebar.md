@@ -1,4 +1,3 @@
 - [Home](home.md)
-- **Collections**
-	- [HTML and CSS Training](html-css-home)
+- [HTML and CSS Training](html-css-home)
 - [Style Guide for Authors](authors-style-guide.md)
