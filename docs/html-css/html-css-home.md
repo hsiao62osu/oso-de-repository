@@ -40,3 +40,37 @@ Here is _roughly_ how each module is organized:
 6. **Post-quiz**: These are assessments for confirming that you have gained a sufficient grasp of the knowledge that the module targets
 7. **Optional resources**
 8. **Optional module Q&A discussion**: Use these discussions to ask your questions about the module and/or to answer those asked by your peers
+
+## How does code look like in this training?
+
+Throughout this document, you will see code in special styling; for example, this is `code interwoven with text` (note the different font), and below is a code snippet block:
+
+```
+This is a block of code.
+```
+
+Where differentiation is needed, the RCE’s visual editor will be referred to throughout as “WYSIWYG editor”, and the code editor “HTML editor”.
+
+HTML comments are wrapped in `<!--` and `-->`; for example:
+
+```html
+<!– This is a paragraph –>
+<p>We work at OSU</p>
+```
+
+While you would not see this often in this training because how CSS handled in the RCE, CSS comments are wrapped in `/*` and `*/`; for example:
+
+```css
+/* All text inside paragraph <p> tags are red */
+p {
+color: red;
+}
+```
+
+## Extended Resources
+
+- [OSU Branding Guidelines](https://brand.osu.edu/brand-platform/visual) – Color, fonts, stock media, etc.
+- The [MDN Web Docs](https://developer.mozilla.org/en-US/) are comprehensive references for HTML and CSS
+- [WebAIM](https://webaim.org/resources/contrastchecker/) has great resources and tools on web / digital accessibility, including a [color contrast checker](https://webaim.org/resources/contrastchecker/)
+- [Codecademy](https://www.codecademy.com/catalog/language/html-css) has free HTML and CSS courses as well as resources
+- [Freecodecamp](https://www.freecodecamp.org/) also has free HTML and CSS courses and certifications
