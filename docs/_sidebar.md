@@ -7,6 +7,13 @@
 	- [Module 5: CSS – Common Units and Text Formatting](html-css/html-css-module-five.md)
 	- [Module 6: CSS – The Box Model](html-css/html-css-module-six.md)
 	- [Stepping Up: HTML & CSS](html-css/html-css-stepping-up.md)
+- [Digital Accessibility Best Practices](digital-accessibility/digital-accessibility-home)
+	- [General best practices](digital-accessibility/digital-accessibility-best-practices-general)
+	* [Best practices for CarmenCanvas](digital-accessibility-best-practices-carmencanvas)
+	* [Best practices for Microsoft 365](digital-accessibility/digital-accessibility-best-practices-microsoft-365)
+	* [Best practices for PDF/Adobe Acrobat](digital-accessibility/digital-accessibility-best-practices-pdf-adobe-acrobat)
+	* [Best practices for H5P](digital-accessibility/digital-accessibility-best-practices-h5p)
+	* [Best practices for Lectora](digital-accessibility/digital-accessibility-best-practices-lectora)
 - [Style Guide for Authors](authors-style-guide.md)
 
 
