@@ -16,6 +16,9 @@ Learn more the new Title II rules on the OSU Digital Accessibility Services page
 
 See the list of best practices that IDs, LXDs, and SAs should know and be able to apply:
 * [General best practices](digital-accessibility-best-practices-general)
-* Best practices for Microsoft 365
-* Best practices for PDF/Adobe Acrobat
-* Best practices for H5P
+* [Best practices for CarmenCanvas](digital-accessibility-best-practices-carmencanvas)
+* [Best practices for Microsoft 365](digital-accessibility-best-practices-microsoft-365)
+* [Best practices for PDF/Adobe Acrobat](digital-accessibility-best-practices-pdf-adobe-acrobat)
+* [Best practices for H5P](digital-accessibility-best-practices-h5p)
+* [Best practices for Lectora](digital-accessibility-best-practices-lectora)
+
