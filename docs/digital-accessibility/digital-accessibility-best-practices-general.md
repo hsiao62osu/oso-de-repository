@@ -165,7 +165,7 @@ Multimedia, even when provided with accessibility in mind, can be distracting to
 
 **Relevant WCAG 2.1 Success Criteria**: [1.2.1](https://www.w3.org/TR/WCAG21/#audio-only-and-video-only-prerecorded), [1.2.2](https://www.w3.org/TR/WCAG21/#captions-prerecorded), [1.2.3](https://www.w3.org/TR/WCAG21/#audio-description-or-media-alternative-prerecorded), [1.2.4](https://www.w3.org/TR/WCAG21/#captions-live), [1.2.5](https://www.w3.org/TR/WCAG21/#audio-description-prerecorded), [1.2.6](https://www.w3.org/TR/WCAG21/#sign-language-prerecorded), [1.2.7](https://www.w3.org/TR/WCAG21/#extended-audio-description-prerecorded), [1.2.8](https://www.w3.org/TR/WCAG21/#media-alternative-prerecorded), [1.2.9](https://www.w3.org/TR/WCAG21/#audio-only-live)
 
-## Why is this helpful?
+### Why is this helpful?
 
 A general rule of thumb of digital accessibility is that text alternatives must be provided for visuals and multimedia. Text can be helpful for users who are deaf or hard of hearing. Text can also be programmatically converted into formats to fit different needs, including audio for users who are blind or visually impaired, and braille for users who are deaf and blind.
 

@@ -9,7 +9,7 @@
 	- [Stepping Up: HTML & CSS](html-css/html-css-stepping-up.md)
 - [Digital Accessibility Best Practices](digital-accessibility/digital-accessibility-home)
 	- [General best practices](digital-accessibility/digital-accessibility-best-practices-general)
-	* [Best practices for CarmenCanvas](digital-accessibility-best-practices-carmencanvas)
+	* [Best practices for CarmenCanvas](digital-accessibility/digital-accessibility-best-practices-carmencanvas)
 	* [Best practices for Microsoft 365](digital-accessibility/digital-accessibility-best-practices-microsoft-365)
 	* [Best practices for PDF/Adobe Acrobat](digital-accessibility/digital-accessibility-best-practices-pdf-adobe-acrobat)
 	* [Best practices for H5P](digital-accessibility/digital-accessibility-best-practices-h5p)
