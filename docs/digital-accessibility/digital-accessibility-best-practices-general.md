@@ -1,5 +1,18 @@
 # General Best Practices in Digital Accessibility 
 
+## Set the title and language of a document 
+
+The title of a document, such as a Word file or a web page, should be informative and orienting.
+
+Within the context of a website, including multi-page H5P and Lectora objects, the title of each individual page must be unique.
+
+**Relevant WCAG 2.1 Success Criteria**: [2.4.2](https://www.w3.org/TR/WCAG21/#page-titled), [3.1.1](https://www.w3.org/TR/WCAG21/#language-of-page)
+
+### Why is this helpful
+
+The title of a document is read to the user of a screen reader to help them identify the document.
+
+---
 ## Don't depend on formatting for conveying meaning
 
 Here are some general rules:
@@ -179,8 +192,6 @@ For the purpose of this guide, “form” refers to a PDF form that can be fille
 For a PDF form to be fillable and accessible, it must 1) contain form fields inserted in Acrobat (vs. simply blank space from the originating document); 2) be tagged and have an accurate reading order.
 
 In addition, the form fields themselves must 1) provide descriptive tooltips, which may match text label(s) intended for it; 2) have appropriate types, names and option values; 3) perform error validation and provide helpful error messages, where applicable; 4) be tagged; and 5) have a reasonable tab order.
-
-For more information, see WebAIM’s “[Accessible Forms in Acrobat](https://webaim.org/techniques/acrobat/forms)“.
 
 **Relevant WCAG 2.1 Success Criteria**: [1.3.5](https://www.w3.org/TR/WCAG21/#identify-input-purpose), [2.4.3](https://www.w3.org/TR/WCAG21/#focus-order), [2.5.3](https://www.w3.org/TR/WCAG21/#label-in-name), [3.3.1](https://www.w3.org/TR/WCAG21/#error-identification), [3.3.2](https://www.w3.org/TR/WCAG21/#labels-or-instructions), [3.3.3](https://www.w3.org/TR/WCAG21/#error-suggestion), [4.1.2](https://www.w3.org/TR/WCAG21/#name-role-value)
 
