@@ -91,6 +91,11 @@ There is not currently a way to directly attach text transcripts to audio and vi
 * **Video clip**: Under **Playback** options, uncheck **Auto-play video** and **Loop video**.
 
 ---
+### Place elements of a document in an order they are meant to be read
+
+Reading order in H5P can be tricky as the authoring tool does not provide finer controls; in our investigations, for some content types reading order is determined by creation order, and for others location on canvas. Please consult with the MIT if you are using a H5P content type that allows for freeform creation, such ad Course Presentation and Hotspot.
+
+---
 ## Additional accessibility considerations for H5P - General
 
 In addition to implementing general best practices in digital accessibility, here are additional general considerations and relevant settings specific to H5P:

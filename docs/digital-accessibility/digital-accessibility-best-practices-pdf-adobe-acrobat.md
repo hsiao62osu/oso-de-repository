@@ -2,7 +2,7 @@
 
 A good way to ensure PDF accessibility is making sure the source document (e.g., Word) is accessible from the get go. 
 
-Here are some additional best practices:
+Here are how the best practices apply:
 * [Set the title and language of a document](https://helpx.adobe.com/acrobat/using/create-verify-pdf-accessibility.html) (via Adobe, see the "Title" and "Document Language" sections)
 * Provide text alternatives for images and figures:
 	* [Figures Alternate Text](https://helpx.adobe.com/acrobat/using/create-verify-pdf-accessibility.html) (via Adobe) 

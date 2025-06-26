@@ -1,5 +1,6 @@
 # Best Practices in Digital Accessibility - Microsoft 365
 
+Here are how the best practices apply:
 - Set the title and language of a document: 
 	- [View or change the properties for an Office file](https://support.microsoft.com/en-us/office/view-or-change-the-properties-for-an-office-file-21d604c2-481e-4379-8e54-1dd4622c6b75) (via Microsoft)
 	- [Set the Document Language](https://it.umn.edu/services-technologies/how-tos/microsoft-word-set-document-language) (via UMN)
