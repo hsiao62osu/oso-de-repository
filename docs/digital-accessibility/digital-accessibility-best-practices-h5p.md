@@ -1,5 +1,10 @@
 # Best Practices in Digital Accessibility - H5P
 
+Only use content types that have been tested and deemed accessible, which include the following: Accordion, Complex fill in the blanks, Arithmetic quiz, Audio, Fill in the blanks, Branching scenario, Column, Course presentation, Dialog cards, Image slider, Interactive book, Interactive video, Multiple choice, Question set, Single choice set, Speak the words, Speak the words set, Summary, Virtual tour (360), and True/False Question. 
+
+Per our final H5P accessibility exception, OSO-authoried H5P objects made using an inaccessible content type must be re-created using an accessible solution prior to the new [Title II rules go into effect on April 24, 2026](https://das.osu.edu/digital-accessibility-title-ii-and-you).
+
+---
 ## Best practices as applied to H5P
 
 ### Set the title and language of a document: 
