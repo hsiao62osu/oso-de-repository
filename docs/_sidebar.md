@@ -15,6 +15,7 @@
 	* [Best practices for PDF/Adobe Acrobat](digital-accessibility/digital-accessibility-best-practices-pdf-adobe-acrobat)
 	* [Best practices for H5P](digital-accessibility/digital-accessibility-best-practices-h5p)
 	* [Best practices for Lectora](digital-accessibility/digital-accessibility-best-practices-lectora)
+* [Archived Resources](archived)
 - [Style Guide for Authors](authors-style-guide.md)
 
 
