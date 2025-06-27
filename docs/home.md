@@ -1,3 +1,3 @@
 # OSO Distance Education Resource Repository
 
-**Welcome to the repository!**
+**Welcome to the repository :)**
