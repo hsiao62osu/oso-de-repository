@@ -16,6 +16,15 @@
 	* [Best practices for H5P](digital-accessibility/digital-accessibility-best-practices-h5p)
 	* [Best practices for Lectora](digital-accessibility/digital-accessibility-best-practices-lectora)
 * [Archived Resources](archived)
+	* [Panopto](panopto/panopto-home)
+		* [Who Has Access to My Panopto Session?](panopto/panopto-session-who-has-access)
+		* [Upload an existing video to Panopto](panopto/panopto-upload-existing-video)
+		* [Upload an existing video to Panopto](panopto/panopto-upload-existing-video)
+		* [Record a New Session for Panopto](panopto/panopto-record-new-session)
+		* [Manage a session and its information in Panopto](panopto/panopto-manage-a-session)
+		* [Add a Panopto session to a cousre in CarmenCanvas](panopto/panopto-add-session-to-carmencanvas)
+		* [Collaborate with instructors in Panopto](panopto/panopto-collaborate-with-instructor)
+		* [Edit a session in Panopto](panopto/panopto-edit-session)
 - [Style Guide for Authors](authors-style-guide.md)
 
 
